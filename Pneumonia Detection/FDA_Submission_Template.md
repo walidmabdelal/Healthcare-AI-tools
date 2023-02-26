@@ -1,14 +1,14 @@
 # FDA  Submission
 
-**Your Name:**
+**Your Name:** Walid Abdelal
 
-**Name of your Device:**
+**Name of your Device:** Chest X-Ray Pneumonia Detection AI
 
 ## Algorithm Description 
 
 ### 1. General Information
 
-**Intended Use Statement:** 
+**on Intended Use:** Statement The algorithm is intended for use  
 
 **Indications for Use:**
 
